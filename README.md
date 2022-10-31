@@ -25,6 +25,6 @@ If you have any questions or suggestions about the docs, feel free to [open a di
 
 ## Contributing
 
-- [Start a Discussion](https://github.com/nftport/examples/discussions) with a question, piece of feedback, or idea you want to share with the team.
-- [Open an Issue](https://github.com/nftport/examples/issues) if you believe you've encountered a bug that you want to flag for the team.
+- [Start a discussion](https://github.com/nftport/examples/discussions) with a question, piece of feedback, or idea you want to share with the team.
+- [Open an issue](https://github.com/nftport/examples/issues) if you believe you've encountered a bug that you want to flag for the team.
 - [Join our Discord](https://discord.gg/C4uqsRWgtM) for immediate questions and community support.
