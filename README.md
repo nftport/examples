@@ -1,5 +1,10 @@
-<img src="nftport-full-text-black-logo-icon.png" style="width: 100px; height: auto; display: block; margin: 0 auto;">
-<h2 style="text-align:center;">NFTPort Examples</h2>
+<p align="center">
+  <a href="https://nftport.xyz">
+    <img src="nftport-full-text-black-logo-icon.png" height="100">
+    <h3 align="center">NFTPort Examples</h3>
+  </a>
+</p>
+
 Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 
 ## Solutions
