@@ -11,10 +11,14 @@ Enjoy our curated collection of examples and solutions. Use these patterns to bu
 A collection of demos, architectures and best practices.
 
 ### Demos
+#### 🎮 Gaming
+- [Unity Mentaverse Starter Kit](https://github.com/nftport/sample-unity3D-nft-metaverse-template): Connect a wallet, and create cross-chain and metaverse games that include deploying contracts, minting, and more.
 #### 🪙 Minting
 - [NFT Minting Starter Kit](https://github.com/surgieboi/nftport-nft-minting-starter-kit): Connect a wallet, upload images, and mint them directly to your wallet address
 #### 🗂️ Multi-chain Data
 - [NFT Portfolio Starter Kit](https://github.com/surgieboi/nftport-nft-portfolio-starter-kit): Display a collection of NFTs from [Ethereum](https://nftport-portfolio-bored-apes-starter-kit.vercel.app/), Goerli, Polygon, Rinkeby, or [Solana](https://nftport-solana-nft-portfolio-starter-kit.vercel.app/)
+#### 👮 Verification & Security
+- [Counterfeit Detection & Search Starter Kit](https://github.com/nftport/nft-search-engine-frontend): Reserve image and text search, plus counterfeit detection, for [verifying NFT ownership](https://fingible.nftport.xyz/) on Ethereum & Polygon
 
 ## Documentation
 
