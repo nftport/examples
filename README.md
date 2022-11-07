@@ -12,9 +12,9 @@ A collection of demos, architectures and best practices.
 
 ### Demos
 #### 🪙 Minting
-- [NFT Minting Starter Kit](https://github.com/surgieboi/nftport-nft-minting-starter-kit): Connect a wallet and mint NFTs to it
+- [NFT Minting Starter Kit](https://github.com/surgieboi/nftport-nft-minting-starter-kit): Connect a wallet, upload images, and mint them directly to your wallet address
 #### 🗂️ Multi-chain Data
-- [NFT Portfolio Starter Kit](https://github.com/surgieboi/nftport-nft-portfolio-starter-kit): Display a collection of NFTs from Goerli, Polygon, Rinkeby, or Solana
+- [NFT Portfolio Starter Kit](https://github.com/surgieboi/nftport-nft-portfolio-starter-kit): Display a collection of NFTs from [Ethereum](https://nftport-portfolio-bored-apes-starter-kit.vercel.app/), Goerli, Polygon, Rinkeby, or [Solana](https://nftport-solana-nft-portfolio-starter-kit.vercel.app/)
 
 ## Documentation
 
